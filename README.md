@@ -1,6 +1,8 @@
 beerjspaloalto
 ============
 
+## next meetup
+Today! See [issue #3](https://github.com/beerjs/paloalto/issues/3)
 
 ## about
 
