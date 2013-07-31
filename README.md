@@ -2,7 +2,7 @@ beerjspaloalto
 ============
 
 ## next meetup
-Today! See [issue #3](https://github.com/beerjs/paloalto/issues/3)
+August 5th! See [issue #7](https://github.com/beerjs/paloalto/issues/7)
 
 ## about
 
