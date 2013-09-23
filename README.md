@@ -2,11 +2,11 @@ beerjspaloalto
 ============
 
 ## next meetup
-August 5th! See [issue #7](https://github.com/beerjs/paloalto/issues/7)
+Check [Issues](https://github.com/beerjs/paloalto/issues/) for the latest
 
 ## about
 
-```
+```js
 require('beer')
 require('javascript')
 developers.filter((dev) => { return distance(dev.loc, paloAlto.loc) < 20; }).forEach(inviteForBeer);
