@@ -25,7 +25,7 @@ switch (desire) {
     });
     event.mixin(beer, js);
     event.mixin(require('more beer'));
-    throw;
+    throw event;
     
   case 'meetup':
     
