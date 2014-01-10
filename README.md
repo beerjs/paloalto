@@ -15,8 +15,9 @@ switch (desire) {
     
   case 'info':
     
-    // frequent, informal discussions of various things javascript in a beer-enriched environment.
-    // 'cause the city's too far, and CalTrain stops running too early.
+    // Support for people who love javascript and those who love them,
+    // in the heart of Silicon Valley. Because the city's too far, and
+    // CalTrain stops running too early.
     var beer = require('beer');
     var js = require('javascript');
     var event = new Meetup({
