@@ -41,7 +41,7 @@ switch (desire) {
   
   default:
   
-    document.write('<marquee>DEAL WITH IT</marquee>');
+    document.write('<MARQUEE><BLINK>DEAL WITH IT</BLINK></MARQUEE>');
 
 }
 
